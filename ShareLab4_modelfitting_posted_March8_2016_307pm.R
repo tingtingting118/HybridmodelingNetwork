@@ -1,11 +1,11 @@
 #TING LAN
-#UIN: 651457659
+
 #LAB 4
 
 
 getwd()
 # Save the data file to a location on your hard drive and specify the path here (Windows systems use forward slashes)
-dir_path <- "C:/Users/karen/Downloads/UIC/IDS564-social medi/lab4"
+dir_path <- "mydirectory"
 setwd(dir_path)
 # clear everything out of memory
 rm(list=ls())  #Read in the hs0 data over the internet using the read.table() function.
